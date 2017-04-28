@@ -1,6 +1,8 @@
 # HelloEntryPoint
 A simple test application for various ARM9 entrypoints
 
+Forked from D0k3's repo, I'm simply aiming to mess around.
+
 Includes:
 + ARM9loaderhax entry point
 * Gateway 4.x Launcher.dat entry point
